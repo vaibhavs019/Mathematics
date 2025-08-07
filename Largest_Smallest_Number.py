@@ -1,7 +1,3 @@
-"""
-Largest Number
-"""
-
 def largest(numbers):
     largest = numbers[0]
     for num in numbers:
